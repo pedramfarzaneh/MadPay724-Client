@@ -24,9 +24,33 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/assets/css/animate.css",
+              "src/assets/css/animate-rtl.css",
+              "src/assets/css/imagelightbox.css",
+              "src/assets/css/imagelightbox-rtl.css",
+              "src/assets/css/style.css",
+              "src/assets/css/style-rtl.css",
+              "src/assets/css/mainmenu.css",
+              "src/assets/css/mainmenu-rtl.css",
+              "src/assets/css/pace-theme-minimal.css",
+              "src/assets/css/flexslider.css",
+              "src/assets/css/styleisotype.css",
+              "src/assets/css/simpletextrotator.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/modernizr.custom.48287.js",
+              "src/assets/js/jquery-1.10.2.min.js",
+              "src/assets/js/pace-0.5.1/pace.min.js",
+              "src/assets/js/woothemes-FlexSlider-06b12f8/jquery.flexslider-min.js",
+              "src/assets/js/isotope/jquery.isotope.min.js",
+              "src/assets/js/jquery.ui.totop.js",
+              "src/assets/js/easing.js",
+              "src/assets/js/wow.min.js",
+              "src/assets/js/jquery.simple-text-rotator.js",
+              "src/assets/js/cleanstart_theme.js",
+              "src/assets/js/collapser.js",
+              "src/assets/js/twitter-bootstrap/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
