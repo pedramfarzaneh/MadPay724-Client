@@ -26,6 +26,7 @@
             "styles": [
               "src/assets/css/animate.css",
               "src/assets/css/animate-rtl.css",
+              
               "src/assets/css/imagelightbox.css",
               "src/assets/css/imagelightbox-rtl.css",
               "src/assets/css/style.css",

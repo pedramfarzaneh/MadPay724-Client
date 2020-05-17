@@ -24,9 +24,25 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/assets/css/fontiran.css",
+              "src/assets/vendors/css/base/bootstrap.min.css",
+              "src/assets/vendors/css/base/seenboard-1.0.css",
+              "src/assets/css/owl-carousel/owl.carousel.min.css",
+              "src/assets/css/owl-carousel/owl.theme.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/vendors/js/base/jquery.min.js",
+              "src/assets/vendors/js/base/core.min.js",
+              "src/assets/vendors/js/nicescroll/nicescroll.min.js",
+              "src/assets/vendors/js/chart/chart.min.js",
+              "src/assets/vendors/js/progress/circle-progress.min.js",
+              "src/assets/vendors/js/calendar/moment.min.js",
+              "src/assets/vendors/js/calendar/fullcalendar.min.js",
+              "src/assets/vendors/js/calendar/locale/fa.js",
+              "src/assets/vendors/js/owl-carousel/owl.carousel.min.js",
+              "src/assets/vendors/js/app/app.js",
+              "src/assets/js/dashboard/db-default.js"
+            ]
           },
           "configurations": {
             "production": {

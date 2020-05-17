@@ -2948,15 +2948,7 @@ th {
 	border-top-right-radius: 0;
 }
 
-@media (min-width: 768px) {
 
-}
-
-@media (min-width: 768px) {
-
-
-@media (min-width: 768px) 
-}
 
 .navbar-collapse {
 	padding-left: 15px;
@@ -3024,15 +3016,7 @@ th {
 	margin-right: auto;
 }
 
-@media (min-width: 768px) {
 
-}
-
-@media (max-width: 767px) {
-
-
-@media (min-width: 768px) 
-}
 
 @media (min-width: 768px) {
 
@@ -3043,22 +3027,10 @@ th {
 }
 
 
-@media (min-width: 768px) 
-@media (max-width: 767px) {
-
-
-@media (min-width: 768px) 
-}
 
 }
 
-@media (min-width: 768px) {
 
-@media (max-width: 767px) {
-
-
-@media (min-width: 768px) 
-}
 
 @media (min-width: 768px) {
 
@@ -3069,31 +3041,16 @@ th {
 }
 
 
-@media (min-width: 768px) 
-@media (max-width: 767px) {
-
-
-@media (min-width: 768px) 
-}
 
 }
 
-}
+
 
 .navbar-form {
 	margin-right: -15px;
 	margin-left: -15px;
 }
 
-@media (min-width: 768px) {
-
-@media (min-width: 768px) {
-
-@media (max-width: 767px) {
-
-
-@media (min-width: 768px) 
-}
 
 @media (min-width: 768px) {
 
@@ -3103,40 +3060,18 @@ th {
 	margin-right: auto;
 }
 
-
-@media (min-width: 768px) 
-@media (max-width: 767px) {
-
-
-@media (min-width: 768px) 
 }
 
-}
 
-}
+
 
 .navbar-form {
 	margin-right: -15px;
 	margin-left: -15px;
 }
 
-}
-
-@media (max-width: 767px) {
-
-}
-
-@media (min-width: 768px) {
-
-@media (min-width: 768px) {
-
-@media (min-width: 768px) {
-
-@media (max-width: 767px) {
 
 
-@media (min-width: 768px) 
-}
 
 @media (min-width: 768px) {
 
@@ -3145,29 +3080,18 @@ th {
 	margin-left: 15px;
 	margin-right: auto;
 }
-
-
-@media (min-width: 768px) 
-@media (max-width: 767px) {
-
-
-@media (min-width: 768px) 
 }
 
-}
 
-}
+
+
 
 .navbar-form {
 	margin-right: -15px;
 	margin-left: -15px;
 }
 
-}
 
-
-@media (max-width: 767px) 
-}
 
 .navbar-nav > li > .dropdown-menu {
 	border-top-left-radius: 0;
@@ -4468,7 +4392,7 @@ blockquote {
 	border-right: 5px solid #999999;
 	border-left: none;
 }
-
+}
 /* 
 ================================================================= 
 
@@ -4493,7 +4417,7 @@ blockquote {
 -------------------------------------------------------------- */
 /* =Responsive: Desktop or even Big Tablet
 -------------------------------------------------------------- */
-@media (min-width: 992px) and (max-width: 1199px) 
+@media (min-width: 992px) and (max-width: 1199px) {
 }
 
 /* =Responsive: Landscape Phone to Tablet
@@ -4513,7 +4437,7 @@ blockquote {
 	border-right: 5px solid #999999;
 	border-left: none;
 }
-
+}
 /* 
 ================================================================= 
 
@@ -4538,7 +4462,7 @@ blockquote {
 -------------------------------------------------------------- */
 /* =Responsive: Desktop or even Big Tablet
 -------------------------------------------------------------- */
-@media (min-width: 992px) and (max-width: 1199px) 
+@media (min-width: 992px) and (max-width: 1199px) {}
 /* =Responsive: Small screen to tablet & IPAD
 -------------------------------------------------------------- */
 @media only screen and (max-width: 991px) {
@@ -4582,7 +4506,7 @@ blockquote {
 	border-right: 5px solid #999999;
 	border-left: none;
 }
-
+}
 /* 
 ================================================================= 
 
@@ -4608,13 +4532,13 @@ blockquote {
 /* =Responsive: Desktop or even Big Tablet
 -------------------------------------------------------------- */
 @media (min-width: 992px) and (max-width: 1199px) 
-}
+{
 
 }
 
 /* =Responsive: Portrait Phone
 -------------------------------------------------------------- */
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 480px) {}
 
 /* =Responsive: Landscape Phone to Tablet
 -------------------------------------------------------------- */
@@ -4633,7 +4557,7 @@ blockquote {
 	border-right: 5px solid #999999;
 	border-left: none;
 }
-
+}
 /* 
 ================================================================= 
 
@@ -4658,7 +4582,7 @@ blockquote {
 -------------------------------------------------------------- */
 /* =Responsive: Desktop or even Big Tablet
 -------------------------------------------------------------- */
-@media (min-width: 992px) and (max-width: 1199px) 
+@media (min-width: 992px) and (max-width: 1199px){} 
 /* =Responsive: Small screen to tablet & IPAD
 -------------------------------------------------------------- */
 @media only screen and (max-width: 991px) {
@@ -4701,4 +4625,5 @@ li.media a.media-date {
 blockquote {
 	border-right: 5px solid #999999;
 	border-left: none;
+}
 }
